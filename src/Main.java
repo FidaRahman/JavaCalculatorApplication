@@ -23,7 +23,7 @@ public class Main {
             System.out.println("Do you want to continue calculation? (Y / N)");
             String cont = scanner.next();
 
-            if (cont.equals("N"))
+            if (cont.equals("N") || cont.equals("n"))
             {
                 break;
             }
