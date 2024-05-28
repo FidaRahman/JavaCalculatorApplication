@@ -1,4 +1,3 @@
-import com.sun.source.tree.WhileLoopTree;
 import java.util.Scanner;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
